@@ -12,8 +12,6 @@ Welcome to the **Arabic Dialect Classification** project! 🌟 This project is d
 - [Model Details](#model-details)
 - [Results](#results)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
@@ -104,7 +102,8 @@ The Multinomial Naive Bayes model, combined with CountVectorizer, achieved an ac
 
 - **Model Fine-tuning**: Improve classification accuracy through hyperparameter optimization.
 - **Expanded Dialects**: Include additional Arabic dialects for broader coverage.
-- **User Feedback**: Integrate user feedback to enhance model performance and usability.
+![Alt text](https://github.com/NedaaElsherbini/NedaaElsherbini-Arabic-Dialect-Classification-app/blob/master/WebApp.png)
+
 
 
 ## Acknowledgements
