@@ -102,7 +102,7 @@ The Multinomial Naive Bayes model, combined with CountVectorizer, achieved an ac
 
 - **Model Fine-tuning**: Improve classification accuracy through hyperparameter optimization.
 - **Expanded Dialects**: Include additional Arabic dialects for broader coverage.
-![Alt text](https://github.com/NedaaElsherbini/NedaaElsherbini-Arabic-Dialect-Classification-app/blob/master/WebApp.png)
+![Alt text](https://github.com/NedaaElsherbini/NedaaElsherbini-Arabic-Dialect-Classification-app/blob/master/Web-App.png)
 
 
 
